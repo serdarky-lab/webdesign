@@ -7,5 +7,6 @@ Umgebung für Webdesign und UI/UX. Skills liegen in `.claude/skills/`:
 - `ui-ux-design`: UI/UX-Grundlagen, Flows, Design-System
 - `heuristic-evaluation`: UX-Review nach Nielsens 10 Heuristiken
 - `web-design-guidelines`: Prüfung gegen Web Interface Guidelines (Barrierefreiheit, UX)
+- 3D/Animation (aus freshtechbro/claudedesignskills, MIT): `modern-web-design`, `gsap-scrolltrigger`, `motion-framer`, `threejs-webgl`, `react-three-fiber`, `scroll-reveal-libraries`, `lottie-animations`, `spline-interactive`, `web3d-integration-patterns`
 
 Ablauf: erst `ui-ux-design` und `ui-ux-pro-max` (Konzept, Design-System), dann `frontend-design-pro` (Umsetzung), dann Review mit `heuristic-evaluation` und `web-design-guidelines`.
